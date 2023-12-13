@@ -7,7 +7,7 @@ require (
 	github.com/larksuite/oapi-sdk-go/v3 v3.0.0-00010101000000-000000000000
 )
 
-replace github.com/larksuite/oapi-sdk-go/v3 => github.com/zjl233/oapi-sdk-go/v3 v3.1.1
+replace github.com/larksuite/oapi-sdk-go/v3 => github.com/zjl233/oapi-sdk-go/v3 v3.1.3
 
 require (
 	github.com/gin-contrib/sse v0.1.0 // indirect
